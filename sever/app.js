@@ -1,1 +1,1 @@
-require('./sayHello')
+require('./package')
